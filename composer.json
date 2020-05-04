@@ -1,0 +1,18 @@
+{
+  "name": "sergii.akimov/monopoly",
+  "description": "Monopoly Game Core",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergii Akimov",
+      "email": "akimovpost@icloud.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Monopoly\\": "src/"
+    }
+  }
+}
